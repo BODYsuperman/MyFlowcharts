@@ -1,11 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2021-04-07T09:50:22.722Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.68" etag="MHK7BGLmy0qLZUOJW1zr" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-08T09:30:31.278Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.68" etag="SLOc-d_eQg_UhOq4KIXs" version="14.5.8" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1yIDL5ooGT145qJ7OEon-2" value="&lt;h1 id=&quot;app-center-quickstart&quot; style=&quot;box-sizing: inherit ; font-size: 2.25rem ; margin: -10px 0px 0px ; padding: 0px ; outline-color: inherit ; line-height: 1.3 ; overflow-wrap: break-word ; word-break: break-word ; color: rgb(23 , 23 , 23) ; font-family: &amp;#34;segoe ui&amp;#34; , &amp;#34;segoeui&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;App Center&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="220" width="130" height="80" as="geometry" />
+          <mxGeometry x="120" y="230" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zORJPBMq_ya9H3AhFZeQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1yIDL5ooGT145qJ7OEon-3" target="1yIDL5ooGT145qJ7OEon-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1yIDL5ooGT145qJ7OEon-3" value="&lt;span style=&quot;box-sizing: inherit ; font-weight: 600 ; outline-color: inherit ; color: rgb(23 , 23 , 23) ; font-family: &amp;#34;segoe ui&amp;#34; , &amp;#34;segoeui&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;Add new app&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="245" width="120" height="30" as="geometry" />
@@ -27,6 +30,15 @@
         </mxCell>
         <mxCell id="1yIDL5ooGT145qJ7OEon-14" value="&lt;span style=&quot;box-sizing: inherit ; font-weight: 600 ; outline-color: inherit ; color: rgb(23 , 23 , 23) ; font-family: &amp;#34;segoe ui&amp;#34; , &amp;#34;segoeui&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;Diagnostics&lt;/span&gt;&lt;span style=&quot;color: rgb(23 , 23 , 23) ; font-family: &amp;#34;segoe ui&amp;#34; , &amp;#34;segoeui&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="360" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zORJPBMq_ya9H3AhFZeQ-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="205" width="60" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="zORJPBMq_ya9H3AhFZeQ-8" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="315" width="60" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="zORJPBMq_ya9H3AhFZeQ-9" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="140" width="60" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
